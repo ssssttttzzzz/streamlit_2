@@ -65,5 +65,5 @@ else:
     st.write('dianji')
 if st.button('qiqiu'):
     st.balloons()
-md = st.sidebar.text_input('input_to_md')
-st.sidebar.markdown(md)
+md = st.text_input('input_to_md')
+st.markdown(md)
