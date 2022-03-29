@@ -2,3 +2,4 @@ streamlit
 pandas
 numpy
 altair
+click==8.0.4
